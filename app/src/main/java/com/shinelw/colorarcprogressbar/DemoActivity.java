@@ -1,10 +1,11 @@
 package com.shinelw.colorarcprogressbar;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import android.os.Handler;
 import android.view.View;
 import android.widget.Button;
 
+import androidx.appcompat.app.AppCompatActivity;
 import com.shinelw.library.ColorArcProgressBar;
 
 
